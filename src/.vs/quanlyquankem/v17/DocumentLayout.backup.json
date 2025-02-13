@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTUD\\quanlyquankem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\facountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\facountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fAdminn.cs",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fAdminn.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs*",
+              "RelativeToolTip": "quanlyquankem\\fAdminn.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:47:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fAdminn.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fAdminn.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs [Design]*",
+              "RelativeToolTip": "quanlyquankem\\fAdminn.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:47:30.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fAcountProfile.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAcountProfile.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fAcountProfile.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAcountProfile.cs [Design]",
+              "RelativeToolTip": "quanlyquankem\\fAcountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:47:28.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fTableManager.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fTableManager.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fTableManager.cs [Design]",
+              "RelativeToolTip": "quanlyquankem\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:46:57.806Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
