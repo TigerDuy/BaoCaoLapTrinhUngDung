@@ -1,0 +1,26 @@
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\bin\Debug\quanlyquankem.exe.config
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\bin\Debug\quanlyquankem.exe
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\bin\Debug\quanlyquankem.pdb
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.csproj.AssemblyReference.cache
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fLogin.resources
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.Properties.Resources.resources
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.csproj.GenerateResource.cache
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.csproj.CoreCompileInputs.cache
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.exe
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.pdb
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fTableManager.resources
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fAccountProfile.resources
+F:\Nguyễn Đỗ Thành Lộc\new\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fAdmin.resources
+D:\LTUD\quanlyquankem\quanlyquankem\bin\Debug\quanlyquankem.exe.config
+D:\LTUD\quanlyquankem\quanlyquankem\bin\Debug\quanlyquankem.exe
+D:\LTUD\quanlyquankem\quanlyquankem\bin\Debug\quanlyquankem.pdb
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.csproj.AssemblyReference.cache
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fAccountProfile.resources
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fAdmin.resources
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fLogin.resources
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.fTableManager.resources
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.Properties.Resources.resources
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.csproj.GenerateResource.cache
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.csproj.CoreCompileInputs.cache
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.exe
+D:\LTUD\quanlyquankem\quanlyquankem\obj\Debug\quanlyquankem.pdb

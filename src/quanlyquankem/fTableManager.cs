@@ -17,25 +17,21 @@ namespace quanlyquankem
             InitializeComponent();
         }
 
-        private void lsvBill_SelectedIndexChanged(object sender, EventArgs e)
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
+            this.Close();
         }
 
         private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            fAcountProfile f = new fAcountProfile();
+            fAccountProfile f = new fAccountProfile();
             f.ShowDialog();
         }
 
         private void adminToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           fAdminn f = new fAdminn();
+            fAdmin f = new fAdmin();
             f.ShowDialog();
+        }
     }
 }

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\LTUD\\quanlyquankem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\fadminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\thaotaccsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\thaotaccsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\facountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\facountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C768775-C6C9-4E91-A6FC-835CE51FB2FA}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|d:\\ltud\\quanlyquankem\\quanlyquankem\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B8B485-3A15-4D43-BAB9-E45837BA43BF}|quanlyquankem\\quanlyquankem.csproj|solutionrelative:quanlyquankem\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fAdminn.cs",
-              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs",
-              "RelativeDocumentMoniker": "quanlyquankem\\fAdminn.cs",
-              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs*",
-              "RelativeToolTip": "quanlyquankem\\fAdminn.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ThaotacCSDL.cs",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\ThaotacCSDL.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\ThaotacCSDL.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\ThaotacCSDL.cs",
+              "RelativeToolTip": "quanlyquankem\\ThaotacCSDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:47:35.085Z",
+              "WhenOpened": "2025-02-13T14:28:41.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "fAdminn.cs [Design]",
-              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs",
-              "RelativeDocumentMoniker": "quanlyquankem\\fAdminn.cs",
-              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdminn.cs [Design]*",
-              "RelativeToolTip": "quanlyquankem\\fAdminn.cs [Design]*",
+              "DocumentIndex": 0,
+              "Title": "fLogin.Designer.cs",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fLogin.Designer.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fLogin.Designer.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fLogin.Designer.cs",
+              "RelativeToolTip": "quanlyquankem\\fLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:47:30.506Z",
+              "WhenOpened": "2025-02-13T14:25:13.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fLogin.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fLogin.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fLogin.cs [Design]",
+              "RelativeToolTip": "quanlyquankem\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:25:12.004Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "fAcountProfile.cs [Design]",
-              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAcountProfile.cs",
-              "RelativeDocumentMoniker": "quanlyquankem\\fAcountProfile.cs",
-              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAcountProfile.cs [Design]",
-              "RelativeToolTip": "quanlyquankem\\fAcountProfile.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\Program.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\Program.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\Program.cs",
+              "RelativeToolTip": "quanlyquankem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:47:28.555Z",
+              "WhenOpened": "2025-02-13T14:24:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdmin.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fAdmin.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdmin.cs",
+              "RelativeToolTip": "quanlyquankem\\fAdmin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:20:34.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdmin.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fAdmin.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAdmin.cs [Design]",
+              "RelativeToolTip": "quanlyquankem\\fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:16:17.929Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "fTableManager.cs [Design]",
-              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fTableManager.cs",
-              "RelativeDocumentMoniker": "quanlyquankem\\fTableManager.cs",
-              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fTableManager.cs [Design]",
-              "RelativeToolTip": "quanlyquankem\\fTableManager.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "fAccountProfile.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAccountProfile.cs",
+              "RelativeDocumentMoniker": "quanlyquankem\\fAccountProfile.cs",
+              "ToolTip": "D:\\LTUD\\quanlyquankem\\quanlyquankem\\fAccountProfile.cs [Design]",
+              "RelativeToolTip": "quanlyquankem\\fAccountProfile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:46:57.806Z",
+              "WhenOpened": "2025-02-13T14:15:45.558Z",
               "EditorCaption": " [Design]"
             }
           ]
